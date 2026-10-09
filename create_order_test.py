@@ -1,3 +1,4 @@
+# Наталья Сидорова 48-я когорта - Финальный проект. Инженер по тестированию плюс
 import data
 import sender_stand_request as request
 
